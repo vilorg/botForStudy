@@ -1,3 +1,3 @@
 from login import key
+import telebot
 
-print(key)
